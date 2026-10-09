@@ -1,0 +1,12 @@
+IMPORTANT MESSAGE, DO NOT SKIP...
+
+Guys,
+
+Use the "master" branch for all code that is a prototype for depthwizard.
+This code will then be cleaned and then only the essential, complete files will
+be pushed to "main"
+
+Try to keep stuff as clean as possible, github bash commands are hell.
+
+-- Adrian
+
