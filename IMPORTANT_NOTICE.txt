@@ -10,3 +10,6 @@ Try to keep stuff as clean as possible, github bash commands are hell.
 
 -- Adrian
 
+Okay 
+
+--Nedrich
