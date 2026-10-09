@@ -1,0 +1,11 @@
+IMPORTANT NOTICE, PLEASE READ CAREFULLY:
+
+This branch of our repo is going to be used to store all sorts of learning material.
+Website links, code, libraries, anything and everything that you think is useful for
+DepthWizard belongs here.
+
+DO NOT mix this up with the "master" branch.
+
+May the force be with you...
+
+-- Adrian
